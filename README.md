@@ -1,9 +1,8 @@
 # Leaf_Disease_Identification
 Basic Functionality and screens for this project- Detecting Leaf Diseases using image processing.(Other functionalities and activities are created based on my interest)
 
-<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/1.PNG" width="50">
-Logo- www.logomakr.com/1DFYIW
-
+<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/logo.png" width="50">
+Logo created in - www.logomakr.com
 
 Dataset-https://www.tensorflow.org/datasets/catalog/plant_village
 
@@ -19,29 +18,58 @@ About Plant Village-https://plantvillage.psu.edu/about
 6. Connection and Meaningful communication with online service
 7. Reading and browsing RSS feed
 
+Prototypes - Made using Balsamiq
+
 <table> <tr> 
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/1.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/2.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/3.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/4.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/5.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/6.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/7.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p1.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p2.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p3.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p4.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p5.png" width="150"> </td>
   </tr>
   <tr>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/8.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/9.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/10.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/11.PNG" width="100"> </td>
-  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/13.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p6.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p7.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p8.png" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p9.png" width="150"> </td>
+  </tr>
+
+  
+
+
+
+<table> 
+  
+   Application Running on Mobile Device
+  
+  <tr> 
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/1.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/2.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/3.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/4.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/5.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/6.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/7.PNG" width="150"> </td>
+  </tr>
+  <tr>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/8.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/9.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/10.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/11.PNG" width="150"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/13.PNG" width="150"> </td>
 
   </tr> 
   
 </table>
+
+Basic UseCase Diagram.
+
+<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/Basic%20Use%20Case%20Diagram.png" width="300">
+
 <img src="https://4.bp.blogspot.com/-6ILboezSMyw/WgtLEht9grI/AAAAAAAAEFU/TfoY_L7zMUoFzLWbmSRmE4GFxJzriUj8wCLcBGAs/s1600/image2.jpg" width="300">
 
-<img src="https://www.mdpi.com/2223-7747/8/11/468/htm" width="100">
-
+<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/plant%20disease%20detection.png" width="300">
+image ref-  https://www.mdpi.com/2223-7747/8/11/468/htm
 
 ## References: 
 
