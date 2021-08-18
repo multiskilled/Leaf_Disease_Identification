@@ -10,7 +10,28 @@ Detecting Leaf Diseases using android application.
 6. Connection and Meaningful communication with online service
 7. Reading and browsing RSS feed
 
-![tensorflow architecture](https://4.bp.blogspot.com/-6ILboezSMyw/WgtLEht9grI/AAAAAAAAEFU/TfoY_L7zMUoFzLWbmSRmE4GFxJzriUj8wCLcBGAs/s1600/image2.jpg)
+<table> <tr> 
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/1.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/2.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/3.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/4.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/5.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/6.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/7.PNG" width="100"> </td>
+  </tr>
+  <tr>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/8.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/9.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/10.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/11.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/12.PNG" width="100"> </td>
+  <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Screens/13.PNG" width="100"> </td>
+
+  </tr> 
+  
+</table>
+<img src="https://4.bp.blogspot.com/-6ILboezSMyw/WgtLEht9grI/AAAAAAAAEFU/TfoY_L7zMUoFzLWbmSRmE4GFxJzriUj8wCLcBGAs/s1600/image2.jpg" width="300">
+
 
 
 
