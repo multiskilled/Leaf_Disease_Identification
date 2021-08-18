@@ -9,7 +9,7 @@ Dataset-https://www.tensorflow.org/datasets/catalog/plant_village
 About Plant Village-https://plantvillage.psu.edu/about
 
 
-*Features:*
+*Functions:*
 1. Image Processing 
 2. Meaningful User Interaction
 3. Loading pictures
