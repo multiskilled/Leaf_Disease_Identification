@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".WelcomeActivity"
+    android:background="@color/colorTrendingStart">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </androidx.viewpager.widget.ViewPager>
+<!--
+
+// Horizontal line in above skp /next buttons
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/dots"
+        android:background="@color/colorWhite"
+        android:layout_marginBottom="15sp"
+        android:alpha=".5"
+
+        />
+-->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/dots"
+    android:layout_marginBottom="55sp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    />
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Skip"
+    android:textColor="@color/colorWhite"
+    android:layout_marginBottom="9dp"
+    android:id="@+id/skipButton1"
+    android:background="@null"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentBottom="true"
+    android:textSize="16sp"
+    />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:textColor="@color/colorWhite"
+        android:layout_marginBottom="9dp"
+        android:id="@+id/NextButton"
+        android:background="@null"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="16sp"
+        />
+
+</RelativeLayout>

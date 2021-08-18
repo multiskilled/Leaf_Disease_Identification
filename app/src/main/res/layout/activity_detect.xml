@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image_4"
+>
+
+
+    <ImageView
+        android:id="@+id/image_capture"
+        android:layout_width="411dp"
+        android:layout_height="200dp"
+android:layout_marginTop="50dp"
+        tools:srcCompat="@tools:sample/avatars" />
+    <Button
+        android:id="@+id/detect_onlineFirebase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+
+        android:layout_below="@id/take_picture"
+     android:layout_marginLeft="25dp"
+        android:text="@string/Online_Detect" />
+
+
+    <Button
+        android:id="@+id/detect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/from_gallery"
+
+        android:layout_marginLeft="255dp"
+        android:text="@string/Detect" />
+
+    <Button
+        android:id="@+id/take_picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_capture"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="60dp"
+        android:layout_toStartOf="@+id/from_gallery"
+        android:text="@string/take_picture" />
+
+    <Button
+        android:id="@+id/from_gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_capture"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="60dp"
+        android:text="@string/from_gallery" />
+//change to single text view
+   <!-- <ListView
+        android:id="@+id/percentages"
+        android:layout_width="match_parent"
+        android:layout_height="278dp"
+        android:layout_alignBottom="@id/image_capture"
+
+
+        android:layout_marginBottom="-291dp" />
+
+-->
+
+
+
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_capture"
+        android:layout_centerHorizontal="true"
+    android:layout_marginTop="105dp"
+        android:clickable="true"
+        android:focusable="true"
+android:textAllCaps="true"
+        android:textColor="@color/Black"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="start"
+
+        app:itemBackground="@color/colorPrimaryDark"
+
+        app:itemHorizontalTranslationEnabled="false"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        app:menu="@menu/menu_navigation"
+        />
+</RelativeLayout>
