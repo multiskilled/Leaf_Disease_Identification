@@ -34,7 +34,7 @@ Prototypes - Made using Balsamiq
   <td> <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Prototype/p9.png" width="150"> </td>
   </tr>
 
-  
+  </table>
 
 
 
@@ -61,14 +61,16 @@ Prototypes - Made using Balsamiq
   </tr> 
   
 </table>
-
+  
+<table> 
+  
 Basic UseCase Diagram.
 
-<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/Basic%20Use%20Case%20Diagram.png" width="300">
-
-<img src="https://4.bp.blogspot.com/-6ILboezSMyw/WgtLEht9grI/AAAAAAAAEFU/TfoY_L7zMUoFzLWbmSRmE4GFxJzriUj8wCLcBGAs/s1600/image2.jpg" width="300">
-
-<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/plant%20disease%20detection.png" width="300">
+<td><img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/Basic%20Use%20Case%20Diagram.png" width="450"></td>
+<td><img src="https://4.bp.blogspot.com/-6ILboezSMyw/WgtLEht9grI/AAAAAAAAEFU/TfoY_L7zMUoFzLWbmSRmE4GFxJzriUj8wCLcBGAs/s1600/image2.jpg" width="450"></td>
+</table>
+  
+<img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/plant%20disease%20detection.png" width="400">
 image ref-  https://www.mdpi.com/2223-7747/8/11/468/htm
 
 ## References: 
