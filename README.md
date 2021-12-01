@@ -1,5 +1,6 @@
 # Leaf_Disease_Identification
 Basic Functionality and screens for this project- Detecting Leaf Diseases using image processing.(Other functionalities and activities are created based on my interest)
+September 2020.
 
 <img src="https://github.com/multiskilled/Leaf_Disease_Identification/blob/master/Project%20info/logo.png" width="50">
 Logo created in - www.logomakr.com
